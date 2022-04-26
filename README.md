@@ -131,7 +131,7 @@ Reference for a clear understanding of some topics.
 
 ## Acknowledgments
 
-- 
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
+- YouTube Tutorial - [SuperSimpleDev](https://www.youtube.com/channel/UCB6dvaWu0N8uVq2yKsZ5s5g)
+- YouTube Tutorial - [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
+- Website - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- FrontEnd Roadmap - [roadmap.sh](https://roadmap.sh/)
