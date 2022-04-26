@@ -21,8 +21,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/prakash-naikwadi/YouTube-Clone-HTML-CSS-ONLY)
-- Live Site URL: [Add live site URL here](https://prakash-naikwadi.github.io/YouTube-Clone-HTML-CSS-ONLY/)
+- Solution URL: [solution URL](https://github.com/prakash-naikwadi/YouTube-Clone-HTML-CSS-ONLY)
+- Live Site URL: [Live site URL](https://prakash-naikwadi.github.io/YouTube-Clone-HTML-CSS-ONLY/)
 
 ## My process
 - Started Learning CSS On Youtube.
