@@ -45,8 +45,8 @@ Reference for a clear understanding of some topics.
 
 - Following Are some **features** of this Clone that are very interesting to me.    
   **1. Adding TimeStamp On Thumbnail Of Video**    
-    - **sceenshot  **  
-        ![Screenshot](/screenshots/thumbnail-screenshot.png?raw=true "View Of Page")
+    - **sceenshot**  
+        ![Screenshot](/screenshots/thumbnail-screenshot.png?raw=true "View Of Page")  
         **code snippets**:
         ```html
         <div class="video-preview">
@@ -108,33 +108,30 @@ Reference for a clear understanding of some topics.
                 font-size: 12px;
                 color: grey;
             }
-            
-                    }
         ```
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace it with your own plans for continued development.**
+- Started Learning Responsive Web Design And Trying To Apply this on future projects.
+- Flexbox, Grid, Display and Grid layout properties are very interesting and they need practice to mater so I am focusing on that when developing future projects.  
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [HTML & CSS Full Course - Beginner to Pro (2022)](https://www.example.com) - This is the course I follow for this YouTube Clone, very beginner friendly.
+- [CSS Tutorial In Hindi (With Notes) 🔥](https://www.example.com) - I watch this course for point wise explaination and notes. I first learn one topic from this video and then go to above course for better understanding topics and above course has very good exercises as well.
+- [Flexbox Froggy Game](https://flexboxfroggy.com/) - Best Resourse for practicing Flexbox.
+- [CSS Grid Garden Game](https://cssgridgarden.com/) - Best Resourse for practicing CSS Grid.
+- [CSS Position Property](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/) - I also refer this for css position
+- [MDN Resourse For CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Best Resourse for CSS because they have given live demo of all properties and their values.  
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Website - [Prakash Naikwadi](https://www.linkedin.com/in/prakash-naikwadi-6b9a60182/)
+- Twitter - [@PrakashNaikwad6](https://www.twitter.com/PrakashNaikwad6)  
 
 ## Acknowledgments
 
+- 
+
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
