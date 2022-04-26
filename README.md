@@ -21,7 +21,7 @@
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/prakash-naikwadi/YouTube-Clone-HTML-CSS-ONLY)
+- Solution URL: [Solution URL](https://github.com/prakash-naikwadi/YouTube-Clone-HTML-CSS-ONLY)
 - Live Site URL: [Live site URL](https://prakash-naikwadi.github.io/YouTube-Clone-HTML-CSS-ONLY/)
 
 ## My process
