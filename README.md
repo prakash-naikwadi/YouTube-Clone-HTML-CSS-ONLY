@@ -46,7 +46,7 @@ Reference for a clear understanding of some topics.
 - Following Are some **features** of this Clone that are very interesting to me.    
   **1. Adding TimeStamp On Thumbnail Of Video**    
     - **sceenshot  **  
-        ![Screenshot](/screenshots/screenshot.png?raw=true "View Of Page")
+        ![Screenshot](/screenshots/thumbnail-screenshot.png?raw=true "View Of Page")
         **code snippets**:
         ```html
         <div class="video-preview">
