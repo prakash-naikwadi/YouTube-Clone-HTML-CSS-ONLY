@@ -17,7 +17,6 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
 ![Screenshot](/screenshots/screenshot.png?raw=true "View Of Page")
 
 ### Links
@@ -44,30 +43,74 @@ Reference for a clear understanding of some topics.
 - I have learned all the basic concepts of HTML and CSS and I am now comfortable with CSS properties.
 - Till there are a lot of things to learn in CSS and overall all Web Development, this project had give me the confidence of developing even complex websites.
 
-- Following Are some **features** of this Clone that are very interesting to me.
-  1. **Adding TimeStamp On Thumbnail Of Video**   
-    sceenshot1  
-    screenshot2  
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdowns, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace it with your own learnings.**
+- Following Are some **features** of this Clone that are very interesting to me.    
+  **1. Adding TimeStamp On Thumbnail Of Video**    
+    - **sceenshot  **  
+        ![Screenshot](/screenshots/screenshot.png?raw=true "View Of Page")
+        **code snippets**:
+        ```html
+        <div class="video-preview">
+            <div class="video-thumbnail">
+                <img src="thumbnails/thumbnail-1.webp" alt="thumbnail-1">
+                <div class="video-length">14.20</div>
+            </div>
+            <div class="video-description">
+                <div class="profile-icon">
+                    <img src="channel-pictures/channel-1.jpeg" alt="channel-1">
+                </div>
+                <div class="video-description-info">
+                    <div class="video-title">Talking Tech and AI with Google CEO Sundar Pichai! </div>
+                    <div class="channel-name">Marques Brownlee </div>
+                    <div class="views-count">3.4M views · 6 months ago</div>
+                </div>
+            </div>
+        </div>
+        ```
+        ```css
+            .video-length{
+                position: absolute;
+                background-color: black;
+                color: white;
+                font-size: 12px;
+                font-weight: bold;
+                border-radius: 2px;
+                padding: 3px;
+                bottom: 10px;
+                right: 10px;
+            }
+            
+            .video-thumbnail img{
+                width: 100%;
+            }
+            
+            .video-description{
+                display: grid;
+                grid-template-columns: 50px 1fr;
+                margin-top: 8px;
+            }
+            
+            .video-description .profile-icon img{
+                width: 36px;
+                border-radius: 50%;
+            }
+            
+            .video-description-info{
+                margin-left: 0px;
+            }
+            
+            .video-description-info .video-title{
+                font-weight: 500;
+                font-size: 14px;
+                margin-bottom: 10px;
+            }
+            .video-description-info .channel-name, .views-count{
+                margin-top: 5px;
+                font-size: 12px;
+                color: grey;
+            }
+            
+                    }
+        ```
 
 ### Continued development
 
