@@ -41,8 +41,13 @@ Reference for a clear understanding of some topics.
 - CSS Position and Display Properties.
 
 ### What I learned
+- I have learned all the basic concepts of HTML and CSS and I am now comfortable with CSS properties.
+- Till there are a lot of things to learn in CSS and overall all Web Development, this project had give me the confidence of developing even complex websites.
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+- Following Are some **features** of this Clone that are very interesting to me.
+  1. **Adding TimeStamp On Thumbnail Of Video**   
+    sceenshot1  
+    screenshot2  
 
 To see how you can add code snippets, see below:
 
